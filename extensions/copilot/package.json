@@ -6407,7 +6407,7 @@
 		"csv-parse": "^6.0.0",
 		"dotenv": "^17.2.0",
 		"electron": "^39.8.5",
-		"esbuild": "0.27.2",
+		"esbuild": "0.28.0",
 		"eslint": "^9.30.0",
 		"eslint-import-resolver-typescript": "^4.4.4",
 		"eslint-plugin-header": "^3.1.1",
@@ -6457,10 +6457,10 @@
 		"zod": "3.25.76"
 	},
 	"dependencies": {
-		"@anthropic-ai/claude-agent-sdk": "0.2.112",
-		"@anthropic-ai/sdk": "^0.82.0",
+		"@anthropic-ai/claude-agent-sdk": "0.2.141",
+		"@anthropic-ai/sdk": "^0.98.0",
 		"@github/blackbird-external-ingest-utils": "^0.3.0",
-		"@github/copilot": "^1.0.34",
+		"@github/copilot": "^1.0.43",
 		"@google/genai": "^1.22.0",
 		"@humanwhocodes/gitignore-to-minimatch": "1.0.2",
 		"@microsoft/tiktokenizer": "^1.0.10",
